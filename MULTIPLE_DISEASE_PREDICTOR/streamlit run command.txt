@@ -1,0 +1,1 @@
+streamlit run "C:\Users\ADMIN\Desktop\AISPRY\PROJECT_TRIAL\multiple_disease_pred\multiple_disease_predictor.py"
